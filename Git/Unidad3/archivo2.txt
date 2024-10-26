@@ -1,2 +1,4 @@
 Este archivo es el un segundo archivo
 Modificación en el archivo2.txt
+Cambio en archivo2.txt en la rama feature
+Segundo cambio en la rama feature
